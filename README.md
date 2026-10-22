@@ -2,5 +2,5 @@
 # EP 1
 ## Beispiel
 Monitoring Soziale Stadtentwicklung Berlin 2025![enter image description here](https://github.com/Timon-Belitz/GiS/blob/main/EP01-Karte-neu.png?raw=true)
-## Bevölkerungszahlen und Bevölkerungsdichte in Berlin
-[Bevölkerungszahlen und Bevölkerungsdichte in Berlin](https://github.com/Timon-Belitz/GiS/blob/main/Berlin_EWR2019_Karte.png?raw=true)
+## Bevölkerungszahlen und -dichte in Berlin (2019)
+![enter image description here](https://github.com/Timon-Belitz/GiS/blob/main/Berlin_EWR2019_Karte.png?raw=true)
